@@ -18,6 +18,6 @@ int main (){
     {
         cout <<"No son divisibles";
     }
-    
+     return 0;
 
 }
